@@ -44,4 +44,4 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Copyright
-Copyright (c) 2018, Shivam Gupta. All rights reserved.
+Copyright (c) 2019, Shivam Gupta. All rights reserved.
